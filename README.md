@@ -3,12 +3,12 @@
 deployed on https://caballo-637bf.web.app/
 
 ## 使用技術   
-Nuxt.js ^2.14.６ 
-Tailwindcss ^3.1.0
+Nuxt.js ^2.14.６  
+Tailwindcss ^3.1.0  
 Ajax  
-firebase ^8.2.1
-luxon ^1.25.0
-microCMS
+firebase ^8.2.1  
+luxon ^1.25.0  
+microCMS  
 
 ## こだわった点    
 ・レスポンシブ対応していること。  
