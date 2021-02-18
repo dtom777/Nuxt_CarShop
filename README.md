@@ -11,13 +11,13 @@ luxon ^1.25.0
 microCMS  
 
 ## こだわった点    
-・レスポンシブ対応していること。  
-.静的コンテンツを配信すること目的なので、Jamstackにしたこと。
+・レスポンシブ対応していること。    
+・静的コンテンツを配信すること目的なので、Jamstackにしたこと。  
 （microCMS, Nuxt, firebase deploy）
 
 ## 苦労した点  
-・Tailwindｃｓｓ使用方法の理解。
-・SSGでのfirebase deployの方法の理解。
+・Tailwindｃｓｓ使用方法の理解。  
+・SSGでのfirebase deployの方法の理解。  
 
 
 
