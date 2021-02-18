@@ -16,7 +16,7 @@ microCMS
 （microCMS, Nuxt, firebase deploy）
 
 ## 苦労した点  
-・Tailwindｃｓｓ使用方法の理解。  
+・Tailwindcss使用方法の理解。  
 ・SSGでのfirebase deployの方法の理解。  
 
 
