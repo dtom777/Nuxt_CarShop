@@ -17,7 +17,6 @@ microCMS
 
 ## 苦労した点  
 ・Tailwindcss使用方法の理解。  
-・SSGでのfirebase deployの方法の理解。  
 
 
 
